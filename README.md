@@ -1,16 +1,15 @@
-## Hi there 👋
+# Oskar Dawidowicz
 
-<!--
-**oskardaw/oskardaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Information Security Specialist with a focus on Offensive Security, Web Application Security, and Network Infrastructure Defense. 
 
-Here are some ideas to get you started:
+## Technical Projects & Laboratories
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **[IDS Network Lab](https://github.com/oskardaw/ids-network-laB)**
+  Comparative analysis of Intrusion Detection Systems (Snort, Suricata, Zeek) in a controlled network environment, evaluating detection capabilities, performance metrics, and log aggregation.
+
+## Core Areas of Interest
+
+* Web Application Penetration Testing & Vulnerability Assessment
+* Network Traffic Analysis, Threat Hunting, and Intrusion Detection
+* Security Process Automation & Tooling (Python, Bash)
+* Systems Security & Linux Administration
