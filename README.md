@@ -1,4 +1,4 @@
-# Oskar Dawidowicz
+# Oskar Dawidczyk
 
 Aspiring Information Security Specialist with a focus on Offensive Security, Web Application Security, and Network Infrastructure Defense. 
 
